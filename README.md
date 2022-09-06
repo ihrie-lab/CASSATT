@@ -2,7 +2,7 @@
 
 This repository contains the Python implementation of CASSATT, a workflow designed to streamline cyclic immunohistochemistry data analysis. This is described in the following paper: 
 
-PAPER LINK.
+[Alignment, Segmentation and Neighborhood Analysis in Cyclic Immunohistochemistry Data Using CASSATT](https://www.biorxiv.org/content/10.1101/2022.08.29.504975v1)
 
 ## Overview
 
